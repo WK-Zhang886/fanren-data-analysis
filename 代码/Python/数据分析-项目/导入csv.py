@@ -8,7 +8,7 @@ df = pd.read_csv(
 conn = pymysql.connect(
     host='localhost',
     user='root',
-    password='zwk159487',
+    password='我的密码',
     database='fanren',
     charset='utf8mb4'
 )
